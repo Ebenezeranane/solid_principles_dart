@@ -1,5 +1,4 @@
-import 'package:solid_principles_dart/solid_principles_dart.dart' as solid_principles_dart;
-
+// created by Ebenezer Anane Wiredu
+// This project illustrates the core SOLID principles in Dart  
 void main(List<String> arguments) {
-  print('Hello world: ${solid_principles_dart.calculate()}!');
 }
